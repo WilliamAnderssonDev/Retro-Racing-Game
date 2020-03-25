@@ -1,10 +1,10 @@
 // Retro Racing Game.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-//The game engine(olcConsoleGameEngine) is made byOneLoneCoder.
-//https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/
-//
 //The game is made by William Andersson.
 //https ://github.com/WilliamAnderssonDev/
+//
+//The game engine(olcConsoleGameEngine) is made byOneLoneCoder.
+//https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/
 
 #include <iostream>
 using namespace std;
