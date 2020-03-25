@@ -955,7 +955,7 @@ private:
 
 				// Update Title & Present Screen Buffer
 				wchar_t s[256];
-				swprintf_s(s, 256, L"%s - FPS: %3.2f", m_sAppName.c_str(), 1.0f / fElapsedTime); //TITLE without game name
+				swprintf_s(s, 256, L"%s - Programmed by: William Andersson", m_sAppName.c_str(), 1.0f / fElapsedTime); //TITLE without game engine name FPS: %3.2f
 				SetConsoleTitle(s);
 				WriteConsoleOutput(m_hConsole, m_bufScreen, { (short)m_nScreenWidth, (short)m_nScreenHeight }, { 0,0 }, &m_rectWindow);
 			}
