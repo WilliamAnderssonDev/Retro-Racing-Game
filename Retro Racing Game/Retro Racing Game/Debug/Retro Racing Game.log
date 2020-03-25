@@ -1,0 +1,6 @@
+﻿  Retro Racing Game.cpp
+C:\Users\willi\Documents\GitHub\Retro-Racing-Game\Retro Racing Game\Retro Racing Game\Retro Racing Game.cpp(46,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\willi\Documents\GitHub\Retro-Racing-Game\Retro Racing Game\Retro Racing Game\Retro Racing Game.cpp(47,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\willi\Documents\GitHub\Retro-Racing-Game\Retro Racing Game\Retro Racing Game\Retro Racing Game.cpp(48,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\willi\Documents\GitHub\Retro-Racing-Game\Retro Racing Game\Retro Racing Game\Retro Racing Game.cpp(49,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Retro Racing Game.vcxproj -> C:\Users\willi\Documents\GitHub\Retro-Racing-Game\Retro Racing Game\Debug\Retro Racing Game.exe
