@@ -2,7 +2,7 @@
 Retro Arcade Racing game made in C++
 
 NOTE:
-The game is under development!
+Ver 1.0 finished. Download the zip to play!
 
 The game is made by William Andersson.
 https://github.com/WilliamAnderssonDev/
